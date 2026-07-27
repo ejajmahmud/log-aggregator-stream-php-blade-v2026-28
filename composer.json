@@ -1,0 +1,8 @@
+{
+  "name": "enterprise/log-aggregator-stream-php-blade-v2026-28",
+  "description": "Log Stream Aggregator & Parser - PHP / Modular Blade Engine",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  }
+}
